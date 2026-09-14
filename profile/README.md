@@ -15,7 +15,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/concordance-wiki/concordance">The tool</a> ·
+  <a href="https://concordance-wiki.github.io/concordance/">The tool</a> ·
   <a href="https://concordance-wiki.github.io/demo-wiki/">Live demo</a> ·
   <a href="https://github.com/concordance-wiki/concordance/blob/main/docs/guides/getting-started.md">Getting started</a> ·
   <a href="https://www.npmjs.com/org/concordance-wiki">npm</a>
